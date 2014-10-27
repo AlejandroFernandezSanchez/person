@@ -16,6 +16,6 @@ public class Person
     public Person()
     {
         // initialise instance variables
-        x = 0;
+        age = 0;
     }
 }
